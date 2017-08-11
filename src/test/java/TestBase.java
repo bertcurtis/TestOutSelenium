@@ -19,6 +19,8 @@ import java.util.concurrent.TimeUnit;
 //This is the Test base, all tests would inherit from here. I struggled with knowing where I should put the 2 wait methods. I originally
 // had them in the Base Page but ended up putting them here, so that all of the child classes could easily use the methods without having to instantiate amy objects
 
+//Test commit
+
 
 public abstract class TestBase extends BasePage {
 
